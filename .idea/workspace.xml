@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92abd1d5-759b-4d70-801d-466e3259f5e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HowWeWork.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Price.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Team.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Animated-numbers-section.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Animation-Cards-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Animation-Cards.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Bootstrap-4---Team-Members.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Card-Carousel-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Card-Carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Contact-Form-v2-Modal--Full-with-Google-Map.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Features-Clean.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Footer-Dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Highlight-Phone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Material-Card.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Slider-PAR-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Slider-PAR-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Slider-PAR-3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Slider-PAR.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Swipe-Slider-9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Team-Boxed.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Team-Grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Testimonial-Slider-9-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/Testimonial-Slider-9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/sticky-dark-top-nav-with-dropdown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Simple-Line-Icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/simple-line-icons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/bike.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/fw_al_007_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/fw_al_007_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/fw_al_007_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/iphone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/materialdesign_devices.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/paleta-sensores.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/rider.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/salvar-datos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/screen-content-iphone-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/slider_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/slider_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/slider_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/slider_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/soluccion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/windows10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/-Animated-numbers-section-BS4-.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/Animated-numbers-section.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/Card-Carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/Contact-Form-v2-Modal--Full-with-Google-Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/Slider-PAR-1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/Slider-PAR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/Swipe-Slider-9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gfmrFSBk6am8EWRTKaRm6yXYtG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92abd1d5-759b-4d70-801d-466e3259f5e3" name="Default Changelist" comment="" />
+      <created>1598514217136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598514217136</updated>
+      <workItem from="1598514218397" duration="2188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="142" y="0" key="SettingsEditor" timestamp="1598518776627">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1598518776627" />
+  </component>
+</project>

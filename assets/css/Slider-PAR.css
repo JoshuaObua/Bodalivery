@@ -1,0 +1,139 @@
+.contenedor-slider {
+  width: 100%;
+  margin-top: 3em;
+}
+
+.contenedor-slider .titulo {
+  text-align: center;
+  color: #ddd;
+}
+
+@media only screen and (max-width: 360px) {
+  .contenedor-slider .titulo h1 {
+    font-size: 1em;
+  }
+}
+
+.contenedor-slider .titulo strong {
+  color: #d834f2;
+}
+
+.slider {
+  background: #333;
+  color: #fff;
+}
+
+.slide {
+  position: relative;
+}
+
+.slide .textos {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background: #333;
+  background: rgba(0,0,0,.4);
+  width: 30%;
+  padding: 1.5em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .slide .textos {
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .slide .textos {
+    position: static;
+    width: 100%;
+    background: transparent!important;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .slide .textos {
+    position: static;
+    width: 100%;
+    background: transparent;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .slide .textos h2 {
+    font-size: 1em;
+    font-weight: 600;
+    letter-spacing: 0.0725em;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .slide .textos a {
+    font-size: 0.7em;
+  }
+}
+
+.slider ul li {
+  list-style: none;
+}
+
+.slide img {
+  display: block;
+  width: 100%;
+}
+
+.slides, .slides > li, .flex-control-nav, .flex-direction-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.textos {
+  font-family: 'Roboto';
+}
+
+.textos h2 {
+  font-weight: 300;
+}
+
+.textos p {
+  font-weight: 200;
+  letter-spacing: 0.06em;
+}
+
+.textos .btn {
+  border-style: inset;
+  background: #0492f9;
+}
+
+.textos a {
+  color: white;
+  text-shadow: #444 1.2px 1px 1px;
+}
+
+@media only screen and (max-width: 768px) {
+  .textos .btn {
+    width: 30%;
+  }
+}
+
+.textos a:hover {
+  color: rgb(33,32,32);
+  transition: all 0.4s linear;
+}
+
+.textos .btn:hover {
+  border-style: inset;
+  background: #f99704;
+  transition: all 0.4s linear;
+}
+
+.contenedor-slider .titulo h1 {
+  font-family: 'Roboto';
+  font-weight: 100;
+}
+
